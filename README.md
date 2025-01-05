@@ -1,2 +1,4 @@
 # velora.nvim
-A soothing dark theme based on pastel colors for Neovim.
+Soothing dark themes for neovim
+* Vivid : More pink and purple flavour
+* Mossy: Green and earthly colors
